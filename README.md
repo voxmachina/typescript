@@ -8,8 +8,8 @@
 * They should be all lower case, and only include letters, numbers, and periods.
 * Files should include in the filename what they represent, as in (app.component.ts or users.service.ts)
 * All files should end in a new line. This is necessary for some Unix systems.
-* All variable and function names should be formed with alphanumeric A-Z, a-z and underscore _ characters.
+* All variable and function names should be formed with alphanumeric A-Z, a-z characters.
 * Variable, module, and function names should use lowerCamelCase.
-* Use ```cons```t where appropriate, for values that should never change
+* Use ```const``` where appropriate, for values that should never change
 * Use ```let``` everywhere else
 * Avoid using ```var```
