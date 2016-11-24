@@ -1,5 +1,4 @@
-# typescript
-TypeScript Style Guide
+# TypeScript Style Guide
 
 * Always define the return type of functions.
 * Types should be used whenever necessary (no implicit any).
